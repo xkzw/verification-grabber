@@ -48,6 +48,10 @@ Ok, now if you correctly setup your variables you will be able to continue.
 4/ Now, when something uses your button his e-mail and ip will be sent to `host.com/results/`!
 ## Credits
 
+#### Use the api
+
+you can use https://host.com/api/v1/api.php?id=ID_VERIFIED_USER to get informations with a bot.
+
 Thanks to MarkisDev (https://github.com/MarkisDev) for is incredible discord OAuth2 login flow
 
 ## Contact 
