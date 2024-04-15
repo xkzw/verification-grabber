@@ -1,6 +1,7 @@
-# Created by nosztalgia (lv8)
-# My discord server: https://discord.gg/yG4my2nqTa
-# Credits to https://github.com/MarkisDev
+<!-- Created by nosztalgia (lv8)
+My discord server: https://discord.gg/yG4my2nqTa
+Credits to https://github.com/MarkisDev-->
+
 
 <!DOCTYPE html>
 <html lang="en">
