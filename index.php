@@ -1,8 +1,8 @@
 <?php
 
-// Created by nosztalgia (lv8)
-// My discord server: https://discord.gg/yG4my2nqTa
-// Credits to https://github.com/MarkisDev
+# Created by nosztalgia (lv8)
+# My discord server: https://discord.gg/yG4my2nqTa
+# Credits to https://github.com/MarkisDev
 
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
