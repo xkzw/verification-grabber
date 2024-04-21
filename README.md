@@ -60,4 +60,4 @@ Thanks to MarkisDev (https://github.com/MarkisDev) for his incredible discord OA
 
 ## Contact 
 
-Discord: lkcw (1220845503806177353)
+Discord: xkzw (1220845503806177353)
